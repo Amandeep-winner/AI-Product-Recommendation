@@ -49,6 +49,11 @@ A modern, high-performance UI built with a focus on visual depth. Featuring:
 
 ## 🏃 Getting Started
 
+### Live Link
+```bash 
+https://ai-product-recommendation-ep1w.onrender.com/
+```
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Amandeep-winner/ai-product-recommendation.git
