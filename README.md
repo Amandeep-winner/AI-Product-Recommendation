@@ -50,9 +50,7 @@ A modern, high-performance UI built with a focus on visual depth. Featuring:
 ## 🏃 Getting Started
 
 ### Live Link
-```bash 
 [https://ai-product-recommendation-ep1w.onrender.com/](https://ai-product-recommendation-408q.onrender.com)
-```
 
 ### 1. Clone the Repository
 ```bash
